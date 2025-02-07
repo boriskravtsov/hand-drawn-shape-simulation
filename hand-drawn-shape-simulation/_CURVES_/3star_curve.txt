@@ -1,0 +1,9 @@
+# File Name: 3star_curve.txt
+50,10
+67,54
+96,91
+50,84
+4,91
+33,54
+50,10
+# End of file
