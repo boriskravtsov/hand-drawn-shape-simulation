@@ -1,4 +1,4 @@
-# Feb-07-2025
+# Feb-11-2025
 # main_4stars.py
 
 from pathlib import Path
@@ -20,9 +20,9 @@ set_params(
         6,        # bezier_noise_param
         2)            # line_thickness
 
-cfg.flag_fill = True
+cfg.flag_fill = False
 cfg.fill_color = colors.lemon
-cfg.contour_color = colors.clover
+cfg.contour_color = colors.magenta
 
 shape_name = '4star'
 dir_curves = Path.cwd() / '_CURVES_'

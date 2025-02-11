@@ -1,4 +1,4 @@
-# Feb-07-2025
+# Feb-11-2025
 # main_6stars.py
 
 from pathlib import Path
@@ -22,7 +22,7 @@ set_params(
 
 cfg.flag_fill = True
 cfg.fill_color = colors.teal
-cfg.contour_color = colors.ocean
+cfg.contour_color = colors.teal
 
 shape_name = '6star'
 dir_curves = Path.cwd() / '_CURVES_'

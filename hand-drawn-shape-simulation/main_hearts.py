@@ -1,4 +1,4 @@
-# Feb-07-2025
+# Feb-11-2025
 # main_hearts.py
 
 from pathlib import Path
@@ -14,11 +14,11 @@ dir_name = 'data_hearts'
 init_directory(dir_name)
 
 set_params(
-        200,              # shape_size = 200 x 200
+        200,             # shape_size = 200 x 200
         5,         # number_of_shapes
-        True,         # perspective_flag
+        True,        # perspective_flag
         7,         # bezier_noise_param
-        1)             # line_thickness
+        2)             # line_thickness
 
 cfg.flag_fill = True
 cfg.fill_color = colors.maraschino

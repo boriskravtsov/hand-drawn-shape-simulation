@@ -1,4 +1,4 @@
-# Feb-07-2025
+# Feb-11-2025
 # main_5stars.py
 
 from pathlib import Path
@@ -21,7 +21,7 @@ set_params(
         2)            # line_thickness
 
 cfg.flag_fill = True
-cfg.fill_color = colors.magenta
+cfg.fill_color = colors.lemon
 cfg.contour_color = colors.aqua
 
 shape_name = '5star'
