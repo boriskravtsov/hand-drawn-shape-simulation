@@ -1,0 +1,6 @@
+# File Name: shape_a_1.txt
+75,40
+60,30
+40,45
+55,90
+# End of file

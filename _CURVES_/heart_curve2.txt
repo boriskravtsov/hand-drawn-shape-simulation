@@ -1,0 +1,7 @@
+# File Name: heart_curve2.txt
+50,27
+69,15
+86,35
+75,62
+50,88
+# End of file
